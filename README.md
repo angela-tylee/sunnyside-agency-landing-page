@@ -91,3 +91,4 @@ Users should be able to:
 ### Continued development
 
 - Some animations.
+- Improve Accessibility.
