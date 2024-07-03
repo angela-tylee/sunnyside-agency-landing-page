@@ -28,10 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1000" alt="image" src="https://github.com/angela-tylee/sunnyside-agency-landing-page/assets/145020731/9f062576-000f-4e30-8039-9b9641cf38d0">
+<img width="239" alt="image" src="https://github.com/angela-tylee/sunnyside-agency-landing-page/assets/145020731/356203e6-ef7d-4bd8-b7a8-ad3acbcbf947">
+<img width="239" alt="image" src="https://github.com/angela-tylee/sunnyside-agency-landing-page/assets/145020731/4b5dac8b-7615-4939-b622-92c612ec74cc">
+
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/angela-tylee/sunnyside-agency-landing-page
+- Live Site URL: https://angela-tylee.github.io/sunnyside-agency-landing-page/
 
 ## My process
 
