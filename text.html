@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+
+    body {
+      background-color: blue;
+    }
+
+    .mobile-menu {
+        position: relative;
+    }
+
+    .mobile-menu nav {
+        position: relative;
+        background-color: #fff; /* Adjust the background color as needed */
+        padding: 20px;
+        border: 1px solid #ccc; /* Optional: for better visibility */
+    }
+
+    .mobile-menu nav::before {
+        content: '';
+        position: absolute;
+        top: -10px; /* Adjust the value to control the triangle's position */
+        right: 20px; /* Adjust the value to control the triangle's position */
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-bottom: 10px solid #fff; /* Adjust to match nav's background color */
+    }
+
+    .icon-hamburger img {
+        width: 30px;
+        height: 30px;
+    }
+
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    nav li {
+        margin: 10px 0;
+    }
+
+    button {
+        margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="mobile-menu">
+    <div class="icon-hamburger"><img src="./images/icon-hamburger.svg" alt=""></div>
+    <nav>
+      <ul>
+        <li>About</li>
+        <li>Services</li>
+        <li>Projects</li>
+      </ul>
+      <button>Contact</button>
+    </nav>
+  </div>
+</body>
+</html>
